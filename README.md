@@ -36,6 +36,8 @@ RFID Automated boom barrier <br/>
 
 
 ## References <br/>
--[RFID](https://microcontrollerslab.com/raspberry-pi-pico-rfid-rc522-micropython/)
--[Servo](https://microcontrollerslab.com/servo-motor-raspberry-pi-pico-micropython/)
--[LCD](https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico)
+- [RFID](https://microcontrollerslab.com/raspberry-pi-pico-rfid-rc522-micropython/)
+
+- [Servo](https://microcontrollerslab.com/servo-motor-raspberry-pi-pico-micropython/)
+
+- [LCD](https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico)
