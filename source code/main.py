@@ -10,7 +10,8 @@ i2c = I2C(0, sda=Pin(0), scl=Pin(1), freq=100000)
 I2C_ADDR = i2c.scan()[0]
 lcd = I2cLcd(i2c, I2C_ADDR, 2, 16)
 #lcd.putstr("LCD under reader does not work")
-lcd.putstr("Scan Tag...")
+lcd.putstr("    Welcome! \n")
+lcd.putstr("  Scan Tag...")
 ############################
 
 ###Buzzer Definition########
