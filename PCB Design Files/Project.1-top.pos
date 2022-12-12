@@ -1,0 +1,15 @@
+### Module positions - created on Tue Nov 15 15:24:43 2022 ###
+### Printed by Pcbnew version (6.0.9)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                 PosX       PosY       Rot  Side
+BZ1       Buzzer             Buzzer_12x9.5RM7.6                                  156.2200   -76.2000    0.0000  top
+D1        LED                LED_D5.0mm                                           99.0600  -116.8400    0.0000  top
+D2        LED                LED_D5.0mm                                          108.6000  -116.8400    0.0000  top
+D3        LED                LED_D5.0mm                                          119.3800  -116.8400    0.0000  top
+J1        Conn_01x08_Female  PinSocket_1x08_P2.54mm_Vertical                      99.0600   -76.2000    0.0000  top
+J2        Conn_01x04_Female  PinSocket_1x04_P2.54mm_Vertical                     160.0200   -99.0600    0.0000  top
+J3        Conn_01x03_Male    PinHeader_1x03_P2.54mm_Vertical                     162.5600   -50.8000    0.0000  top
+R1        100                R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal   143.5100   -93.9800    0.0000  top
+U1        Pico               PicoPCB                                             129.5400   -71.1200    0.0000  top
+## End

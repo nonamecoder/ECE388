@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"BZ1","Buzzer","Buzzer_12x9.5RM7.6",65.290000,48.000000,0.000000,top
+"D1","LED","LED_D5.0mm",8.130000,7.360000,0.000000,top
+"D2","LED","LED_D5.0mm",17.670000,7.360000,0.000000,top
+"D3","LED","LED_D5.0mm",28.450000,7.360000,0.000000,top
+"J1","Conn_01x08_Female","PinSocket_1x08_P2.54mm_Vertical",8.130000,48.000000,0.000000,top
+"J2","Conn_01x04_Female","PinSocket_1x04_P2.54mm_Vertical",69.090000,25.140000,0.000000,top
+"J3","Conn_01x03_Male","PinHeader_1x03_P2.54mm_Vertical",71.630000,73.400000,0.000000,top
+"R1","100","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",52.580000,30.220000,0.000000,top
+"U1","Pico","PicoPCB",38.610000,53.080000,0.000000,top
